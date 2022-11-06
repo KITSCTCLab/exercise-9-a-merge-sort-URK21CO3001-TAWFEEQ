@@ -1,4 +1,4 @@
-  from typing import List
+from typing import List
 
 def merge(arr: [int], l: int, mid: int, r: int) -> [int]:
   l1 = arr[l:mid]
